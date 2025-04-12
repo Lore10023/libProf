@@ -21,7 +21,8 @@ Proiect realizat în Visual Studio folosind C#, ADO.NET și o bază de date loca
 * MySQL - Gestiunea bazei de date 
 * ADO.NET - Conectare și interacțiune cu baza de date
 ## Interfața
-<img src="pictures/login.png"  width="1000" height="550">
+![login](https://github.com/user-attachments/assets/e1b9e06b-ed40-4dec-9363-5070b7ab3533)
+
 
 
   
