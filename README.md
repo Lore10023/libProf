@@ -1,1 +1,25 @@
-# libProf
+# Managementul unei Biblioteci
+## Prezentare Generala
+Proiect realizat în Visual Studio folosind C#, ADO.NET și o bază de date locală. Sistemul permite gestionarea eficientă a unei biblioteci, incluzând funcționalități precum înregistrarea utilizatorilor, administrarea cărților, emiterea și returnarea acestora. Include roluri diferențiate (administrator/bibliotecar și student), control al permisiunilor și interfață simplă și intuitivă pentru utilizatori.
+## Caracteristici
+* Sistem de login cu roluri (Administrator / Student)
+* Administratorul poate:
+  - Adauga, edita și șterge cărți
+  - Aproba sau respinge înregistrările studenților
+  - Vizualiza istoricul împrumuturilor și returnărilor
+* Studentul poate:
+  - Se înregistreze în sistem
+  - Vizualiza și căuta cărți disponibile
+  - Solicita împrumuturi sau returnări
+* Baza de date include:
+  - Detalii despre cărți
+  - Detalii despre utilizatori
+  - Detalii despre cărțile împrumutate
+## Tehnologii utilizate
+* C# - Limbajul de programare utilizat
+* Windows Forms - Interfața grafică
+* MySQL - Gestiunea bazei de date 
+* ADO.NET - Conectare și interacțiune cu baza de date
+## Interfața
+<img src="pictures/login.png">
+  
