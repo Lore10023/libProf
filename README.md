@@ -22,6 +22,9 @@ Proiect realizat în Visual Studio folosind C#, ADO.NET și o bază de date loca
 * ADO.NET - Conectare și interacțiune cu baza de date
 ## Interfața
 ![login](https://github.com/user-attachments/assets/e1b9e06b-ed40-4dec-9363-5070b7ab3533)
+![Admin](https://github.com/user-attachments/assets/75883c3d-0ba4-41d9-b249-6b9de053ca45)
+![Student](https://github.com/user-attachments/assets/03343c00-61ec-41a0-9f6f-e06ce28ae1ee)
+
 
 
 
